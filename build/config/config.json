@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xee4276D4dAD3F678c0d3D150d4eb1715029096ee",
+  "SCAN_LINK": "https://polygonscan.com/token/0xee4276d4dad3f678c0d3d150d4eb1715029096ee",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Cheap Chief",
+  "SYMBOL": "CHPCHF = 0.002 ETH or ",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 500000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/cheap-chief",
+  "SHOW_BACKGROUND": true
+}
